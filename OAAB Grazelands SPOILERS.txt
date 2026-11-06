@@ -1,0 +1,45 @@
+========= New Quests =========
+
+Many of these can be started by talking to people about the Latest Rumors in Vos or Tel Vos. But here are specific ways to start each of them:
+
+Bed Bandits - read the relevant notice in Varo Tradehouse
+
+Mer-Eater Nix-Hound (no journal entries) - read the relevant notice in Varo Tradehouse
+
+Rogue Ashlanders Bounty (no journal entries) - read the relevant notice in Varo Tradehouse
+
+Rats in Varo Tradehouse - rent a bed at Varo Tradehouse and sleep in it
+
+Galos Questline - you must complete the Baladas Ally quest to become Aryon's Mouth, advance to at least Spellwright, start your Stronghold and talk to one of your retainers there. Then speak with Galos Mathendis who retires to the Mouth's Chambers in Tel Vos (located through the Living Quarters)
+
+Root of the Problem - talk to Dreynos Elvul (in the wickwheat fields of Vos)
+
+Conserving Water - find the water valve in the "Tel Vos, Passages" and shut it off. Then talk to Aryon. Hinted at if you free the slave in the Rats quest.
+
+Smokeskin-Willer - talk to Milar Maryon in the services tower about "restorative supplies"
+
+Dwemer Museum (No Journal - mostly tracked through dialogue with Smokeskin-Killer and new additions to the museum) - 4 stages advanced by completing various vanilla quests involving exploring dwemer ruins: House Telvanni: Mission to Nchuleft, House Telvanni: Dahrk Mezalf, Mages Guild: Bethamez, Mages Guild: Nchuleftingth Expedition, Antabolis Informant (get the key to Arkngthand), The Citadels of the Sixth House (complete the main quest), 
+
+Imitation is the Sincerest Form of Forgery - talk to Smokeskin-Killer after expanding the Dwemer Museum to at least stage 3 (i.e. 3 quests completed)
+
+The Eerie Lantern - look for a lantern at night on the road just down the hill from Tel Vos
+
+The Domain of Living Fire - this quest naturally follows after The Eerie Lantern
+
+A Smidge Too Far - look for a trader just outside of Tel Mora
+
+Magical Misdeeds - talk to Alenus Vendu in the services tower
+
+Let The Ebony Flow - A parallel to the HH Ashlander Ebony quest. Talk to Turedus Talanian after completing his vanilla "work" quest and after joining HT. After the quest completion, some ebony crates and a new NPC will appear on Falvillo's Endeavor. These will also appear if you complete the HH quest. The new NPC has a business proposition for the player.
+
+
+
+========= Vanilla Quests =========
+
+Girith's Stolen Hides has been merged into OAAB_Grazelands
+
+Mudan-Mul Egg Mine - completing this quest will now make the mine become active again
+
+Odirniran (Telvanni) - Multiple changes come to Odirniran as you complete other quests in this mod
+
+Ashlander Ebony (House Hlaalu) - completing this quest will make a new NPC appear on the ship in Vos.

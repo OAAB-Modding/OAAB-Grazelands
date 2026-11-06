@@ -1,0 +1,18 @@
+[package]
+name = "OAAB Grazelands"
+description = "This mod is an overhaul of Vos and Tel Vos, the land surrounding them, the two nearby egg mines, and various areas in the Grazelands region."
+homepage = "https://www.nexusmods.com/morrowind/mods/49075"
+authors = [
+	"Melchior Dahrk",
+]
+version = "2.2.2"
+
+[dependencies.mods."OAAB_Data"]
+version = ">=2.2.2"
+url = "https://www.nexusmods.com/morrowind/mods/49042"
+
+[dependencies.mcp.features]
+getSpellEffectsTweak = true
+
+[dependencies.mwse]
+buildnumber = 4267
