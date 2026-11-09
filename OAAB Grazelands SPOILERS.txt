@@ -43,3 +43,22 @@ Mudan-Mul Egg Mine - completing this quest will now make the mine become active 
 Odirniran (Telvanni) - Multiple changes come to Odirniran as you complete other quests in this mod
 
 Ashlander Ebony (House Hlaalu) - completing this quest will make a new NPC appear on the ship in Vos.
+
+
+
+========= Achievements =========
+
+Achievement			Requirement
+
+Walls Are a Suggestion		Discover the Passkey routes across all three affected towers.
+Doom Scrolling			Print all eight varieties of Aryon’s summoning scrolls.
+Speaking Its Language		Solve the talking Dwemer head’s puzzle and receive its blessing.
+Some Assembly Required		Summon a daedrat using the Verminous Spear.
+Do You Know Who My Sword Is?	Intimidate the scamp thief using the Moon Reiver dialogue option.
+Forbidden Reading		Learn Lesser Soulsnare from N’Gasta’s Necromancy Book.
+An Honest Misunderstanding	Escape the vault’s jail trap through Speechcraft or Illusion.
+Lost Property			Recover the missing Fire Barrier Amulet.
+Bottle the Blaze		Capture the Flame Monarch’s soul.
+Wholesale			Purchase the entire five-piece ebony allotment in one transaction.
+The Big Cheese			Receive Varo’s five-portion weekly scuttle payout.
+Master Curator			Fully expand Aryon’s Dwemer museum.

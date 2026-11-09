@@ -2,7 +2,7 @@
 OAAB Grazelands
 =================================
 by Melchior Dahrk
-Version 2.2.2
+Version 2.3.1
 
 
 Description
@@ -64,8 +64,14 @@ Archive is BAIN structured
 
 For manual installation, copy files to the Morrowind Data Files folder
 
-If you use Remiros' Groundcover, install the "01 Remiros Groundcover GL Patch" - activate BOTH plugins while generating distant land
-If you use RandomPal's patch for Remiros' Groundcover and Trackless Grazelands, install the "01 Remiros Groundcover GL Patch for Trackless Grazelands" - activate the ESP along with RandomPal's while generating distant land
+If you use MWSE, install "01 MWSE Addons".
+
+If you use OpenMW, install "01 OpenMW Addons".
+
+Both addon folders include optional Skyrim Style Quest Notifications (SSQN) support. Install SSQN for your engine to see Grazelands quest icons in its notifications. On OpenMW, enable SSQN.omwscripts from SSQN.
+
+If you use Remiros' Groundcover, install the "04 Remiros Groundcover GL Patch" - activate BOTH plugins while generating distant land
+If you use RandomPal's patch for Remiros' Groundcover and Trackless Grazelands, install the "04 Remiros Groundcover GL Patch for Trackless Grazelands" - activate the ESP along with RandomPal's while generating distant land
 
 If you use Old Vos Tradepost, install the included ESP.
 
@@ -134,7 +140,8 @@ Changelog
 2.1.0 - Added OpenMW compatibility script for the Passwall enchantments in the Southern Tower. Updated The Final Door quest script to work in OpenMW.
 2.2.0 - Fixed path grids around Vos and Tel Vos. Fixed another hole in Odirniran. Updated to a cleaner method for detecting usage of MWSE for OpenMW script compatibility. Updated metadata to add MWSE and MCP dependency checks (for non-OpenMW users). Replaced hammock in Aryon's conservatory with rug hammock. Added wheelbarrow to dungeon construction. Added seal stamp to Aryon's Vault. Added map to Aryon's Conservatory. Added ownership to objects in Aryon's Conservatory.
 2.2.1 - Fixed Magicka Expanded integration for MWSE users.
-2.2.2 - Fixed some dialogue bugs. Fixed floaters in Vos. Reduced attack of talking head to make guards less likely to attack it.
+2.3.0 - Added 12 achievements. Fixed some dialogue bugs. Fixed floaters in Vos. Reduced attack level of talking head to make guards less likely to attack it. Added OpenMW interop for Impact Effects. Added SSQN support for MWSE and OpenMW.
+2.3.1 - Removed a floating rock.
 
 
 Contact Info
